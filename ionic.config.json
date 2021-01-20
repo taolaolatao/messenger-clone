@@ -1,0 +1,7 @@
+{
+  "name": "messenger-clone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
